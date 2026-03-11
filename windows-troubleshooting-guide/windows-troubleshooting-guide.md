@@ -14,8 +14,11 @@
 3. Restart the router
 4. Run Windows Network Troubleshooter
 5. Update network driver
+
 ### Commands
+
 ipconfig /release
+
 ipconfig /renew
 ---
 ## Problem: Printer Not Printing
